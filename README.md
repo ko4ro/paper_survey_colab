@@ -6,3 +6,5 @@
 
 ## 画像変換系NNモデル
 - [pix2pixチュートリアルの日本語訳](https://github.com/ko4ro/paper_survey_colab/blob/main/pix2pix_jp.ipynb)
+- [cycleganチュートリアルの日本語訳](https://github.com/ko4ro/paper_survey_colab/blob/main/cyclegan_jp.ipynb)
+
